@@ -1,0 +1,5 @@
+1. What are the top 5 females players according to standard rating?
+2. What are the top male players who was born after 1990 according to Blitz rating?
+3. What are top the players who has GM norm title and also from Russia federation?
+4. Name the top player who has standard rating more than both of Rapid and Blitz rating?
+5. What are the top federations who has IM norm title according to standard rating?
